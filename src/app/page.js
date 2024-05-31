@@ -43,7 +43,7 @@ export default function Home() {
         Go to Login Form
       </button>
       <br/> <br/>
-      <button onClick={() => navigate("/Newblog")}>
+      <button onClick={() => navigate("/Newsblog")}>
         Go to NewBlog
       </button>
       <br/> <br/>
